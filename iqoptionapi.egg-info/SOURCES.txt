@@ -1,0 +1,7 @@
+README.md
+iqoptionapi.egg-info/PKG-INFO
+iqoptionapi.egg-info/SOURCES.txt
+iqoptionapi.egg-info/dependency_links.txt
+iqoptionapi.egg-info/not-zip-safe
+iqoptionapi.egg-info/requires.txt
+iqoptionapi.egg-info/top_level.txt
