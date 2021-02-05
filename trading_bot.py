@@ -17,7 +17,7 @@ class startProgram:
             print('Oops i could not understand which sesion you choosed')
             exit()
         print('\nYour account balance is: %s %s'%(self.I_want_money.get_balance(), self.I_want_money.get_currency()))
-            
+        
     
     def resetDemoBalance(self):
         self.I_want_money.reset_practice_balance()
