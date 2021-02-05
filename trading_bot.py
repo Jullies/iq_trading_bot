@@ -1,12 +1,20 @@
 import time
+import datetime
+from connect_user import whichUser
 from iqoptionapi.stable_api import IQ_Option
 
 class startProgram:
-    def __init__(self, username, password, liveorDemo):
-        self.username = username
-        self.password = password
+    def __init__(self, username, liveorDemo):
+        conn = whichUser(username)
+        self.username = conn.user_mail
+        self.password = conn.password
         self.liveorDemo = liveorDemo
-        self.startingBot()
+        #self.startingBot()
+        self.drawchart()
+    
+    def drawchart(self):
+        pass
+        
     
     def runningBot(self):
         if self.liveorDemo == 'demo':
@@ -56,4 +64,4 @@ class startProgram:
                 
                 
 if __name__ == '__main__':
-    startProgram("julliesnyash@gmail.com","@PSD95isNOTt" ,'demo') #Use demo/live
+    startProgram("Jullies" ,'demo') #Use demo/live
