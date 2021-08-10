@@ -1,0 +1,332 @@
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 16:03:28.928184
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 16:07:05.989843
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 16:10:36.981026
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 16:10:51.682785
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 16:11:29.944596
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 16:11:49.368079
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 16:33:04.295664
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 16:41:34.386430
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 16:44:32.935017
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 16:44:59.127714
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 16:50:33.223900
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 16:53:30.339849
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 16:54:46.512268
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 16:56:44.503018
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 17:01:32.327998
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 17:01:48.610159
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 17:02:12.921483
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 18:41:58.390338
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 18:42:30.754796
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 18:43:34.782514
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 18:44:38.888464
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 18:45:13.043954
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 18:45:44.303247
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 18:46:37.074947
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 18:46:56.949252
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 18:47:24.479888
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 18:47:53.939709
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 18:48:41.790585
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 18:51:36.090628
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 18:56:06.751172
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 18:57:36.245329
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 18:59:39.961423
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 19:03:17.680574
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 19:03:49.771749
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 19:07:46.966069
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 19:09:05.815386
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 19:10:11.914784
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 19:11:43.209312
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 19:14:02.439111
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 19:15:52.822972
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 19:16:20.406058
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 19:17:19.049666
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 19:18:21.288749
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 19:19:03.991953
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 19:28:31.851244
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 19:28:59.283555
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 19:30:39.979966
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 19:32:21.205757
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 19:32:39.242127
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 19:42:57.519913
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 19:45:53.558738
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 19:46:32.395846
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 19:47:52.447709
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 19:48:27.175681
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 19:49:41.437239
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 19:51:54.932900
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 19:55:58.094281
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 19:56:43.714364
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 19:57:17.701364
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 19:59:09.381812
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 20:01:47.707197
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 20:26:17.897636
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 20:34:29.131308
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 20:40:22.787148
+
+Doing a custom strategy for USDCAD ~ 2021-07-12 20:42:24.319756
+
+Doing a custom strategy for USDCAD ~ 2021-07-13 08:05:12.798835
+
+Doing a custom strategy for USDCAD ~ 2021-07-13 08:06:26.956859
+
+Doing a custom strategy for USDCAD ~ 2021-07-13 08:06:48.190908
+
+Doing a custom strategy for USDCAD ~ 2021-07-13 08:07:38.396866
+
+Doing a custom strategy for USDCAD ~ 2021-07-13 08:08:27.176523
+
+Doing a custom strategy for USDCAD ~ 2021-07-13 08:09:02.440432
+
+Doing a custom strategy for USDCAD ~ 2021-07-13 08:09:43.187120
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 10:46:55.088935
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 10:57:52.181890
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 10:59:06.474897
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 10:59:11.106147
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 10:59:41.647886
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 11:00:45.690319
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 11:01:06.777301
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 11:14:28.922820
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 11:15:27.911798
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 11:17:31.927140
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 11:18:23.895385
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 11:20:01.768778
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 11:21:34.941860
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 11:21:55.366586
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 11:22:13.425465
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 11:25:02.840473
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 11:25:46.449000
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 11:27:04.485933
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 11:36:05.744286
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 11:37:07.520543
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 11:38:11.383536
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 11:42:39.988462
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 11:43:29.054617
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 11:48:57.999769
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 11:49:39.216158
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 11:51:08.173843
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 11:51:31.099434
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 11:53:15.894685
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 11:54:49.581510
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 11:56:31.928821
+
+Doing a custom strategy for USDCAD ~ 2021-07-14 11:57:52.617833
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 15:24:43.454841
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 15:28:37.216490
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 15:28:47.657312
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 15:32:19.156847
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 15:33:09.846516
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 15:34:16.718532
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 15:36:28.397633
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 15:38:20.327088
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 15:40:09.843117
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 15:51:46.135883
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 15:58:45.071644
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 15:59:11.163444
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 15:59:37.506481
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 16:00:48.615321
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 16:01:22.696756
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 16:29:08.939070
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 16:29:32.254904
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 16:33:07.523376
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 16:33:22.891912
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 16:34:48.897184
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 16:35:06.443356
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 16:36:19.834651
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 16:38:27.764202
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 16:39:10.728057
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 16:41:42.787517
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 16:49:14.894037
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 16:50:31.931430
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 16:51:55.925253
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 16:52:28.687304
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 16:53:55.738038
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 16:54:09.140015
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 16:57:28.728218
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 16:58:31.818480
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 17:00:13.237574
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 17:00:27.256947
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 17:00:55.354643
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 17:01:27.068416
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 17:02:49.706777
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 17:03:17.475193
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 17:07:29.677648
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 17:11:58.025984
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 17:14:02.841438
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 17:14:30.086761
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 17:17:53.981945
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 17:19:44.229099
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 17:24:45.147296
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 17:32:37.966017
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 17:33:25.401252
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 17:36:14.318072
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 17:37:37.277561
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 17:37:49.656784
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 20:40:22.992963
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 20:40:23.040914
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 20:43:03.170200
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 22:10:16.100167
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 22:13:45.521491
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 22:14:05.630282
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 22:14:55.292772
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 22:18:50.245016
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 22:19:28.130785
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 22:21:30.355608
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 22:22:35.214925
+
+Doing a custom strategy for USDCAD ~ 2021-07-15 22:25:58.315166
